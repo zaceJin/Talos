@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e45a6d9a-1020-4ca3-b108-62fe337e3bd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Talos_test/resources/example-robot-data" />
+  </component>
+  <component name="JupyterTrust" id="795e1224-9770-41a1-adda-e959708a099d" />
+  <component name="ProjectId" id="1vSviYzkzIo20hCVBpHrVct3adQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Year4\summer2021\Talos\Talos_Test" />
+      <recent name="D:\Year4\summer2021\Talos\Talos_Test\Talos_test\envs" />
+      <recent name="D:\Year4\summer2021\Talos\Talos_Test\Talos_test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Year4\summer2021\Talos\Talos_Test\Talos_test\envs" />
+      <recent name="D:\Year4\summer2021\Talos\Talos_Test\Talos_test" />
+      <recent name="D:\Year4\summer2021\Talos\Talos_Test" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e45a6d9a-1020-4ca3-b108-62fe337e3bd2" name="Default Changelist" comment="" />
+      <created>1626568431304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626568431304</updated>
+      <workItem from="1626568432380" duration="1325000" />
+      <workItem from="1626643376136" duration="1428000" />
+      <workItem from="1626729517354" duration="5386000" />
+      <workItem from="1626781247694" duration="2440000" />
+      <workItem from="1626785590382" duration="4483000" />
+      <workItem from="1626790549982" duration="1479000" />
+      <workItem from="1626880332005" duration="473000" />
+      <workItem from="1626880816520" duration="3877000" />
+      <workItem from="1626949087666" duration="8327000" />
+      <workItem from="1627038410260" duration="3893000" />
+      <workItem from="1627047283567" duration="900000" />
+      <workItem from="1627311911816" duration="2650000" />
+      <workItem from="1627404615400" duration="4328000" />
+      <workItem from="1627480853796" duration="414000" />
+      <workItem from="1627481280119" duration="4557000" />
+      <workItem from="1627565168840" duration="666000" />
+      <workItem from="1627653879923" duration="883000" />
+      <workItem from="1627912979161" duration="5089000" />
+      <workItem from="1628074639061" duration="4207000" />
+      <workItem from="1628245301578" duration="3823000" />
+      <workItem from="1628251172391" duration="97000" />
+      <workItem from="1628251609371" duration="775000" />
+      <workItem from="1628506949951" duration="2040000" />
+      <workItem from="1630321621670" duration="729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1025" y="503" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626783235678">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1025" y="503" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1920.81.1920.1040@0.0.2560.1400" timestamp="1626783235678" />
+    <state x="1059" y="442" key="FileChooserDialogImpl" timestamp="1628507031475">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1059" y="442" key="FileChooserDialogImpl/0.0.2560.1400/-1920.81.1920.1040@0.0.2560.1400" timestamp="1628507031475" />
+    <state x="960" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1630321624284">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.81.1920.1040@-1920.81.1920.1040" timestamp="1627654007058" />
+    <state x="960" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.81.1920.1040@0.0.2560.1400" timestamp="1630321624284" />
+    <state x="-1816" y="81" width="1832" height="957" maximized="true" key="dock-window-1" timestamp="1627653941457">
+      <screen x="-1920" y="81" width="1920" height="1040" />
+    </state>
+    <state x="-1816" y="81" width="1832" height="957" maximized="true" key="dock-window-1/0.0.2560.1400/-1920.81.1920.1040@0.0.2560.1400" timestamp="1627484010123" />
+  </component>
+</project>
