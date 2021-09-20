@@ -27,9 +27,11 @@
  ### Pybullet:
  To install Pybullet use following code in anaconda(Windows) and command line (Linux):  
  `pip install pybullet`  
- For more information on PyBullet, read look [PyBullet ](https://pybullet.org/wordpress/).
+ For more information on PyBullet, read [PyBullet ](https://pybullet.org/wordpress/).
  
  ### Open Ai Gym:
- To install Gym use following code in anaconda(Windows) and command line (Linux):
+ To install Gym use following code in anaconda(Windows) and command line (Linux):   
  `pip install gym`
- 
+ For more information on PyBullet, read [Gym offical installation documentation](https://gym.openai.com/docs/#installation).
+
+### 
