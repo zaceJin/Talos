@@ -31,7 +31,31 @@
  
  ### Open Ai Gym:
  To install Gym use following code in anaconda(Windows) and command line (Linux):   
- `pip install gym`
+ `pip install gym`  
  For more information on PyBullet, read [Gym offical installation documentation](https://gym.openai.com/docs/#installation).
 
-### 
+### Pytorch:
+To install Torch use following code in anaconda(Windows) and command line (Linux):  
+`pip install torch`  
+For more information in Pytorch, read [Pytorch offical cite](https://pytorch.org/).
+
+### Example_robot_data:
+To install example_robot_data use following code in anaconda(Windows) :    
+`conda install example-robot-data -c conda-forge`  
+For Linux Users: 
+Please following instruction on [Gepetto's page](https://github.com/Gepetto/example-robot-data).
+
+### Stable-baselines:
+To install Torch use following code in anaconda(Windows) and command line (Linux):  
+`pip install stable-baselines`  
+For more information in Stable-baselines, read [Stable-Baseline](https://github.com/hill-a/stable-baselines).
+
+### Tensorflow 
+**Notification: Tensorflow >= 2.0 are not support for stable-baselines. This project are using TF 1.15.0 for build.  
+Python >= 3.8 require Tensorflow 2.2 or higher to run**  
+To install Tensorflow use following code in anaconda(Windows):     
+`conda install tensorflow==1.15`  
+Required Python 3.6 or 3.7    
+To install Tensorflow on Linux:  
+`pip install tensorflow==1.15`  
+If you need more helps on Tensorflow, Please check [Pypi for Tensorflow](https://pypi.org/project/tensorflow/) and [Tensorflow](https://www.tensorflow.org/install/). 
