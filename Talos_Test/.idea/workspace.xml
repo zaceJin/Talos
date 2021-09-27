@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e45a6d9a-1020-4ca3-b108-62fe337e3bd2" name="Default Changelist" comment="" />
+    <list default="true" id="e45a6d9a-1020-4ca3-b108-62fe337e3bd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/envs/.ipynb_checkpoints/Simple_Env_Refact-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/envs/pre_vision/Simple_Env_FullBody.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/envs/pre_vision/Simple_Env_Left_arm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/envs/pre_vision/Simple_Env_Refact.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/envs/pre_vision/Simple_Env_draft.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/envs/pre_vision/Simple_Env_draft2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/resources/.ipynb_checkpoints/PD_TEST_GAIN-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/resources/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/resources/PD_TEST_GAIN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/resources/Talos_Left_Arm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/resources/Talos_draft.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/resources/Talos_draft2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/resources/Talos_full_Body.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talos_test/resources/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pre_vision/main_left_arm.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Talos_test/resources/example-robot-data" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JupyterTrust" id="795e1224-9770-41a1-adda-e959708a099d" />
   <component name="ProjectId" id="1vSviYzkzIo20hCVBpHrVct3adQ" />
@@ -88,6 +106,7 @@
       <workItem from="1628251609371" duration="775000" />
       <workItem from="1628506949951" duration="2040000" />
       <workItem from="1630321621670" duration="729000" />
+      <workItem from="1632169085308" duration="2650000" />
     </task>
     <servers />
   </component>
@@ -103,11 +122,12 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1059" y="442" key="FileChooserDialogImpl/0.0.2560.1400/-1920.81.1920.1040@0.0.2560.1400" timestamp="1628507031475" />
-    <state x="960" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1630321624284">
+    <state x="960" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1632169113674">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="960" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.81.1920.1040@-1920.81.1920.1040" timestamp="1627654007058" />
     <state x="960" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.81.1920.1040@0.0.2560.1400" timestamp="1630321624284" />
+    <state x="960" y="524" key="com.intellij.ide.util.TipDialog/2560.-1165.1440.3400/0.0.2560.1400@0.0.2560.1400" timestamp="1632169113674" />
     <state x="-1816" y="81" width="1832" height="957" maximized="true" key="dock-window-1" timestamp="1627653941457">
       <screen x="-1920" y="81" width="1920" height="1040" />
     </state>
