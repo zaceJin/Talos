@@ -14,7 +14,7 @@ class Simple_Env(gym.Env):
         self.client = p.connect(p.SHARED_MEMORY)
         if self.client < 0:
             self.client = p.connect(p.GUI)
-        #self.client = p.connect(None)#p.DIRECT)
+            #self.client = p.connect(p.DIRECT)
         #self.client = p.connect(p.GUI) # WITH GUI
         dt = 1e-3#1e-3
         p.setTimeStep(dt, self.client)

@@ -47,7 +47,7 @@ def main():
     input("...")
     """
     print("=========== Create process")
-    n_procs = 3
+    n_procs = 1
     env_id = 'Talos_Test-v0'
     if n_procs == 1:
         # if there is only one process, there is no need to use multiprocessing

@@ -13,7 +13,7 @@ class Talos:
         self.robotStartOrientation = p.getQuaternionFromEuler([0, 0, 0])
         #load Talos
         #p.setTimeStep(1e-3)
-        self.robotId = p.loadURDF("talos_reduced.urdf",self.robotStartPosition, self.robotStartOrientation, useFixedBase = True)
+        self.robotId = p.loadURDF("talos_reduced.urdf",self.robotStartPosition, self.robotStartOrientation, useFixedBase = False)
 
         nonControlledJoints = [
             #"torso_1_joint",# Other Body Joints
@@ -28,7 +28,7 @@ class Talos:
             #"arm_left_5_joint",
             #"arm_left_6_joint",
             #"arm_left_7_joint",
-
+            
             "arm_right_1_joint",#Right Joints
             "arm_right_2_joint",
             "arm_right_3_joint",
@@ -37,19 +37,19 @@ class Talos:
             "arm_right_6_joint",
             "arm_right_7_joint",
 
-            "leg_left_1_joint", #Left Leg
-            "leg_left_2_joint",
-            "leg_left_3_joint",
-            "leg_left_4_joint",
-            "leg_left_5_joint",
-            "leg_left_6_joint",
+            #"leg_left_1_joint", #Left Leg
+            #"leg_left_2_joint",
+            #"leg_left_3_joint",
+            #"leg_left_4_joint",
+            #"leg_left_5_joint",
+            #"leg_left_6_joint",
 
-            "leg_right_1_joint", #right Leg
-            "leg_right_2_joint",
-            "leg_right_3_joint",
-            "leg_right_4_joint",
-            "leg_right_5_joint",
-            "leg_right_6_joint",
+            #"leg_right_1_joint", #right Leg
+            #"leg_right_2_joint",
+            #"leg_right_3_joint",
+            #"leg_right_4_joint",
+            #"leg_right_5_joint",
+            #"leg_right_6_joint",
 
             "imu_joint",  # Other joints not used
             "rgbd_joint",
