@@ -29,13 +29,13 @@ class Talos:
             #"arm_left_6_joint",
             #"arm_left_7_joint",
             
-            "arm_right_1_joint",#Right Joints
-            "arm_right_2_joint",
-            "arm_right_3_joint",
-            "arm_right_4_joint",
-            "arm_right_5_joint",
-            "arm_right_6_joint",
-            "arm_right_7_joint",
+            #"arm_right_1_joint",#Right Joints
+            #"arm_right_2_joint",
+            #"arm_right_3_joint",
+            #"arm_right_4_joint",
+            #"arm_right_5_joint",
+            #"arm_right_6_joint",
+            #"arm_right_7_joint",
 
             #"leg_left_1_joint", #Left Leg
             #"leg_left_2_joint",
@@ -241,3 +241,7 @@ class Talos:
             jointVelocitiesNormalized[j] = jointVelocities[j] / self.mapJointVel[j]
         obs_Velocities = np.array(jointVelocitiesNormalized)
         return obs_position, obs_Velocities
+
+    def getBasePosition(self):
+        positionBase,orientation_Base = p.getBasePositionAndOrientation(self.robotId, self.client)
+        return positionBase

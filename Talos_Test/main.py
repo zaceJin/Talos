@@ -47,7 +47,7 @@ def main():
     input("...")
     """
     print("=========== Create process")
-    n_procs = 1
+    n_procs = 16
     env_id = 'Talos_Test-v0'
     if n_procs == 1:
         # if there is only one process, there is no need to use multiprocessing
@@ -67,7 +67,7 @@ def main():
     print("=========== Learn")
     model.learn(total_timesteps=1000000, callback=checkpoint_callback)
     input("Training over...")
-    del model
+    #del model
     env.close()
 
 
